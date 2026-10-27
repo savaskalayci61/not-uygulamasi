@@ -8,3 +8,4 @@
 8. git remote: uzak repo baglantisi
 9. git push: kodlari buluta yollar
 10. git merge: dallari birlestirir
+PR test satiri
