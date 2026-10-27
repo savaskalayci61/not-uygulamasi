@@ -1,0 +1,5 @@
+1. ls: dosyalari listeler
+2. cd: klasor degistirir
+3. mkdir: klasor acar
+4. clear: ekrani temizler
+5. pwd: nerede oldugumu gosterir
