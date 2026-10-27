@@ -3,3 +3,8 @@
 3. mkdir: klasor acar
 4. clear: ekrani temizler
 5. pwd: nerede oldugumu gosterir
+6. git branch: dallari listeler
+7. git checkout: dallar arasi gecis
+8. git remote: uzak repo baglantisi
+9. git push: kodlari buluta yollar
+10. git merge: dallari birlestirir
